@@ -45,6 +45,8 @@ int main(int argc, char**argv) {
     
     printName("Bassam Alsanie");
     
+    printName("Diana Alsanie");
+    
     return 0;
 }
 
