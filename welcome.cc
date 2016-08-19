@@ -29,6 +29,7 @@
  */
 
 #include <iostream>
+#include "welcome.h"
 
 int main(int argc, char**argv) {
     // Prints welcome message...
@@ -42,5 +43,14 @@ int main(int argc, char**argv) {
         }
     }
     
+    printName("Bassam Alsanie");
+    
     return 0;
+}
+
+//================================================================
+
+void printName(char name[])
+{
+   std::cout<<"\n Name to print: "<<name<<"\n";
 }
