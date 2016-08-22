@@ -36,7 +36,7 @@
 #ifndef _welcome_H
 #define _welcome_H
 
-// Used to print c strings
+// Used to print c language array fo char
 void printName(char name[]);
 
 #endif /* _welcome_H */
