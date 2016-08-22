@@ -36,6 +36,7 @@
 #ifndef _welcome_H
 #define _welcome_H
 
+// Used to print c strings
 void printName(char name[]);
 
 #endif /* _welcome_H */
