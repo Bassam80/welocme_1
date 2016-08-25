@@ -33,6 +33,8 @@
 // File:   welcome.h
 //
 
+// Amal file :)
+
 #ifndef _welcome_H
 #define _welcome_H
 
