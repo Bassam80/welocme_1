@@ -50,7 +50,8 @@ int main(int argc, char**argv) {
     printName("Amal Alsanie");
     
     printName("Ibraheem Alsanie");
-    
+
+    printName("I am new to git :)");    
     return 0;
 }
 
